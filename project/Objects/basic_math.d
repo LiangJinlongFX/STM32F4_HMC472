@@ -1,0 +1,42 @@
+.\objects\basic_math.o: ..\DSP\Basic_math.c
+.\objects\basic_math.o: ..\DSP\Basic_math.h
+.\objects\basic_math.o: ..\Common\sys\sys.h
+.\objects\basic_math.o: ..\SYSTEM\stm32f4xx.h
+.\objects\basic_math.o: ..\CORE\core_cm4.h
+.\objects\basic_math.o: D:\Program Files\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\basic_math.o: ..\CORE\core_cmInstr.h
+.\objects\basic_math.o: ..\CORE\core_cmFunc.h
+.\objects\basic_math.o: ..\CORE\core_cm4_simd.h
+.\objects\basic_math.o: ..\SYSTEM\system_stm32f4xx.h
+.\objects\basic_math.o: ..\SYSTEM\stm32f4xx_conf.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_adc.h
+.\objects\basic_math.o: ..\SYSTEM\stm32f4xx.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_crc.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_dbgmcu.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_dma.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_exti.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_flash.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_gpio.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_i2c.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_iwdg.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_pwr.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_rcc.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_rtc.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_sdio.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_spi.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_syscfg.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_tim.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_usart.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_wwdg.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\misc.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_cryp.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_hash.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_rng.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_can.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_dac.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_dcmi.h
+.\objects\basic_math.o: ..\STM32F4_LIB\inc\stm32f4xx_fsmc.h
+.\objects\basic_math.o: ..\DSP_LIB\Include\arm_math.h
+.\objects\basic_math.o: ..\DSP_LIB\Include\core_cm4.h
+.\objects\basic_math.o: D:\Program Files\keil\ARM\ARMCC\Bin\..\include\string.h
+.\objects\basic_math.o: D:\Program Files\keil\ARM\ARMCC\Bin\..\include\math.h
